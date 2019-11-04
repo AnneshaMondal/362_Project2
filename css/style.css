@@ -23,7 +23,7 @@ body{
 
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (min-width: 750px) {
 	body{
   text-align: center;
 	font-family:'Roboto', monospace, sans-sherif;
