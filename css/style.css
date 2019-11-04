@@ -49,10 +49,7 @@ body{
 }
 }
 
-ownerpic" src="Images/ownerPic.png" alt="maker">
-<img id="pouch" src="Images/pouch.png" alt="pouch">
-<img id="workstation" src="Images/workStation.png" alt="workstation">
-<img id="stairs"
+
 
 .images{
   display:grid;
