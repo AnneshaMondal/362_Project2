@@ -61,8 +61,14 @@ body{
 #images{
   display:grid;
   grid-gap:10px;
-  grid-template-columns: 100px 100px 100px;
+  grid-template-columns: 50px 50px 50px;
 
+}
+
+.image{
+  border-radius: 5px;
+  padding:20px;
+  font-size: 150%
 }
 
 #imageA{
