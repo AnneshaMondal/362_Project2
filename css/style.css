@@ -15,7 +15,10 @@ body{
 
 #p1{
   font-family: 'Roboto', monospace, sans-sherif;
-  font-size:1.5em;
+  font-size:0.75em;
   text-align: center;
   color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
 }
