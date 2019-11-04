@@ -48,3 +48,10 @@ body{
   padding-right: 10px;
 }
 }
+
+#navigation{
+  list-style-type: none;
+  display: block;
+  width: 60px;
+  background-color: #D7CEC7;
+}
