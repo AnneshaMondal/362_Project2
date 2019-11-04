@@ -49,9 +49,13 @@ body{
 }
 }
 
-#ul1{
+#ul1:hover{
   list-style-type: none;
   display: block;
-  width: 60px;
-  background-color: #D7CEC7;
+  width: 200px;
+  background-color: white;
+  margin:0;
+  padding:0;
+  padding: 8px 16px;
+
 }
