@@ -18,7 +18,33 @@ body{
   font-size:1em;
   text-align: center;
   color: black;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 35px;
+  padding-right: 35px;
 
+}
+
+@media only screen and (max-width: 750px) {
+	body{
+  text-align: center;
+	font-family:'Roboto', monospace, sans-sherif;
+	background-color: #D7CEC7;
+
+}
+
+#indexheader{
+  padding-top: 40px;
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size: 1.5em;
+  text-align: center;
+  color: #853443;
+}
+
+#p1{
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size: 0.5em;
+  text-align: center;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 }
