@@ -1,3 +1,20 @@
 html{
-  font font-family: 'Roboto', monospace, sans-sherif;
+  font-family: 'Roboto', monospace, sans-sherif;
+}
+
+body{
+  background-color: #9CB380;
+}
+#indexheader{
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size: 3em;
+  text-align: center;
+  color: #C7AC92;
+}
+
+#p1{
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size:1.5em;
+  text-align: center;
+  color: #C7AC92;
 }
