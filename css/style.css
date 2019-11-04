@@ -59,6 +59,8 @@ ownerpic" src="Images/ownerPic.png" alt="maker">
   grid-gap:10px;
   grid-template-columns: 75px 75px 75px;
   background-color: #D7CEC7;
+  padding-left: 75px;
+  padding-right:75px;
 }
 
 .ownerpic{
