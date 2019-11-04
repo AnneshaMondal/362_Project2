@@ -32,6 +32,7 @@ body{
 }
 
 #indexheader{
+  padding-top: 40px;
   font-family: 'Roboto', monospace, sans-sherif;
   font-size: 1.5em;
   text-align: center;
@@ -50,6 +51,8 @@ body{
 
 #ul1:hover{
   list-style-type: none;
+  list-style-type: none;
+  text-decoration: none;
   display: block;
   width: 200px;
   background-color: white;
