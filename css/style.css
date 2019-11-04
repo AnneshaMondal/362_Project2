@@ -49,6 +49,11 @@ body{
 }
 }
 
+.ownerPic{
+  height:200px;
+  width:200px;
+}
+
 .row{
   display: flex;
   flex-wrap: wrap;
