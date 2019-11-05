@@ -34,6 +34,8 @@ body{
 #ul1 {
   background-color: #DE8C6E;
   color: #FFFFFF;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 @media only screen and (min-width: 750px) {
