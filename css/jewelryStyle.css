@@ -8,3 +8,9 @@ h1{
 html{
   background-color: #D7CEC7
 }
+
+navigation{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
