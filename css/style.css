@@ -61,15 +61,6 @@ body{
   padding-right: 10px;
 }
 
-#ul1{
-  list-style-type: none;
-  list-style-type: none;
-  text-decoration: none;
-  display: block;
-  width: 200px;
-
-}
-
 #images{
   display:grid;
   grid-gap:10px;
