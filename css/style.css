@@ -24,14 +24,14 @@ body{
   padding-right: 10px;
 }
 
-a {
+#a1 {
   text-align: center;
   padding-left: 35px;
   padding-right: 35px;
   font-size: 30px;
 }
 
-ul {
+#ul1 {
   background=color: #822300;
   color: white;
 }
