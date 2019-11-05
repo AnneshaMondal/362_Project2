@@ -31,6 +31,11 @@ a {
   font-size: 30px;
 }
 
+ul {
+  background=color: #822300;
+  color: white;
+}
+
 @media only screen and (min-width: 750px) {
 	body{
   text-align: center;
