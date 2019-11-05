@@ -30,6 +30,7 @@ body{
   padding-right: 35px;
   font-size: 30px;
   text-decoration: none;
+  font-weight: bold;
 }
 
 #al:visited{
@@ -37,7 +38,7 @@ body{
 }
 
 #ul1 {
-  background-color: #DE8C6E;
+  background-color: #76323F;
   color: #FFFFFF;
   padding-top: 10px;
   padding-bottom: 10px;
