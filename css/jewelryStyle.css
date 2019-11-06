@@ -20,8 +20,9 @@ html{
 }
 
 .earringsflat1{
-  flex:1.3344;
   padding-bottom: 10px;
+  position: relative;
+  left: 30px;
 }
 
 .earringsround1{
