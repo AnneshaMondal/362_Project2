@@ -1,0 +1,80 @@
+h1{
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size: 2em;
+  text-align: center;
+  color: #ffea00;
+
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+
+html{
+  background-color: white;
+}
+body{
+  background-color: white;
+}
+
+.Knotnavigation{
+  background-color: #ffea00;
+  overflow:hidden;
+}
+
+.Knotnavigation a {
+  width:500px;
+  float:left;
+  color:#00A9D8;
+  text-align: center;
+  padding-left: 100px 16px;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+
+}
+
+@media only screen and (min-width: 700px) {
+  body {
+    background-color: lightblue;
+  }
+
+
+html{
+  background-color: white;
+}
+body{
+  background-color: white;
+}
+
+.Knotnavigation{
+  height:100%;
+  width:160px;
+  position:fixed;
+  z-index: 1;
+  top: 0;
+  left:0;
+  background-color: #0D9EDF;
+  overflow-x: hidden;
+  padding-top: 30px;
+}
+
+.Knotnavigation a {
+padding: 6px 10px 6px 18px;
+text-decoration: none;
+font-size: 25px;
+color:white;
+display: block;
+}
+
+.Knotnavigation a:hover{
+  color:white;
+}
+
+}
+
+#images{
+  display: flex;
+
+}
