@@ -28,6 +28,12 @@ body{
   font-size: 1em;
 }
 
+.Jewelrynavigation a:hover{
+  background-color: #259B9A;
+  color:#ffea00;
+
+}
+
 #images{
   display: flex;
 
