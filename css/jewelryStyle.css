@@ -13,10 +13,19 @@ body{
   background-color: white;
 }
 
-#Jewelrynavigation{
-  list-style-type: none;
+.Jewelrynavigation{
+  background-color: #ffea00;
+  overflow:hidden;
 }
 
+.Jewelrynavigation a {
+  float:left;
+  color:#00A9D8;
+  text-align: center;
+  padding-left: 14px 16px;
+  text-decoration: none;
+  font-size: 1em;
+}
 
 #images{
   display: flex;
