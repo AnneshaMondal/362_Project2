@@ -3,12 +3,12 @@ h1{
   font-size: 2em;
   text-align: center;
   color: #ffea00;
+
 }
 
 body {
   text-align: center;
 }
-
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
