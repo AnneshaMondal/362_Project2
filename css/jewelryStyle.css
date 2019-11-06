@@ -33,6 +33,42 @@ body{
 }
 
 }
+
+@media only screen and (max-width: 2000px) {
+  body {
+    background-color: lightblue;
+  }
+
+
+html{
+  background-color: white;
+}
+body{
+  background-color: white;
+}
+
+.Jewelrynavigation{
+  height:100%;
+  width:160px;
+  position:fixed;
+  z-index: 1;
+  top: 0;
+  left:0;
+  background-color: #0D9EDF;
+  overflow-x: hidden;
+  padding-top: 30px;
+}
+
+.Jewelrynavigation a {
+
+}
+
+}
+
+
+
+
+
 #images{
   display: flex;
 
