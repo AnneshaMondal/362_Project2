@@ -1,104 +1,80 @@
+h1{
+  font-family: 'Roboto', monospace, sans-sherif;
+  font-size: 2em;
+  text-align: center;
+  color: #ffea00;
+
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+
 html{
-  font-family: 'Roboto', monospace, sans-sherif;
-  text-align: center;
+  background-color: white;
 }
-
 body{
-  background-color: #D7CEC7
+  background-color: white;
 }
 
-#indexheader{
-  padding-top: 80px;
-  font-family: 'Roboto', monospace, sans-sherif;
-  font-size: 3em;
-  text-align: center;
-  color: #76323F
+.Indexnavigation{
+  background-color: #ffea00;
+  overflow:hidden;
 }
 
-#p1{
-  font-family: 'Roboto', monospace, sans-sherif;
-  font-size:1em;
+.Indexnavigation a {
+  width:500px;
+  float:left;
+  color:#00A9D8;
   text-align: center;
-  color: black;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-#a1 {
-  text-align: center;
-  padding-left: 35px;
-  padding-right: 35px;
-  font-size: 30px;
+  padding-left: 100px 16px;
   text-decoration: none;
-  font-weight: bold;
+  font-size: 1em;
 }
 
-#al:visited{
-  color: #FFFFFF;
-}
-
-#ul1 {
-  background-color: #76323F;
-  color: #FFFFFF;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-@media only screen and (min-width: 750px) {
-	body{
-  text-align: center;
-	font-family:'Roboto', monospace, sans-sherif;
-	background-color: #D7CEC7;
 
 }
 
-#indexheader{
-  padding-top: 40px;
-  font-family: 'Roboto', monospace, sans-sherif;
-  font-size: 1.5em;
-  text-align: center;
-  color: #853443;
+@media only screen and (min-width: 700px) {
+  body {
+    background-color: lightblue;
+  }
+
+
+html{
+  background-color: white;
+}
+body{
+  background-color: white;
 }
 
-#p1{
-  font-family: 'Roboto', monospace, sans-sherif;
-  font-size: 0.5em;
-  text-align: center;
-  color: black;
-  padding-left: 10px;
-  padding-right: 10px;
+.Indexnavigation{
+  height:100%;
+  width:160px;
+  position:fixed;
+  z-index: 1;
+  top: 0;
+  left:0;
+  background-color: #0D9EDF;
+  overflow-x: hidden;
+  padding-top: 30px;
+}
+
+.Indexnavigation a {
+padding: 6px 10px 6px 18px;
+text-decoration: none;
+font-size: 25px;
+color:white;
+display: block;
+}
+
+.Indexnavigation a:hover{
+  color:white;
+}
+
 }
 
 #images{
-  display:grid;
-  grid-gap:10px;
-  grid-template-columns: 50px 50px 50px;
+  display: flex;
 
-}
-
-.image{
-  border-radius: 5px;
-  padding:20px;
-  font-size: 150%
-}
-
-#imageA{
-  grid-column: 1 / 3;
-       grid-row: 1;
-}
-
-#imageB{
-  grid-column: 3 ;
-        grid-row: 1 / 3;
-}
-
-#imageC{
-  grid-column: 1 ;
-        grid-row: 2 ;
-}
-
-#imageD{
-  grid-column: 2;
-        grid-row: 2;
-}
 }
