@@ -31,6 +31,17 @@ body{
   text-decoration: none;
   font-size: 1em;
 }
+.earringsflat1{
+  padding-bottom: 10px;
+  position: relative;
+  left: 30px;
+}
+
+.earringsround1{
+  flex:1.3344;
+  padding-bottom: 10px;
+}
+
 
 }
 
@@ -80,15 +91,4 @@ display: block;
 #images{
   display: flex;
 
-}
-
-.earringsflat1{
-  padding-bottom: 10px;
-  position: relative;
-  left: 30px;
-}
-
-.earringsround1{
-  flex:1.3344;
-  padding-bottom: 10px;
 }
