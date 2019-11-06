@@ -73,12 +73,12 @@ body{
 padding: 6px 10px 6px 18px;
 text-decoration: none;
 font-size: 25px;
-color:#259B9A;
+color:white;
 display: block;
 }
 
 .Jewelrynavigation a:hover{
-  color:#259B9A;
+  color:white;
 }
 
 }
