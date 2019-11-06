@@ -23,14 +23,11 @@ body{
   float:left;
   color:#00A9D8;
   text-align: center;
-  padding-left: 14px 16px;
+  padding-left: 100px 16px;
   text-decoration: none;
   font-size: 1em;
 }
 
-.Jewelrynavigation a:hover{
-  background-color: black;
-  color:#ffea00;
 
 }
 
