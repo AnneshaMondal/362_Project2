@@ -17,12 +17,12 @@ body{
   background-color: white;
 }
 
-.Knotnavigation{
+.Knotavigation{
   background-color: #ffea00;
   overflow:hidden;
 }
 
-.Knotnavigation a {
+.Knotavigation a {
   width:500px;
   float:left;
   color:#00A9D8;
@@ -48,7 +48,7 @@ body{
   background-color: white;
 }
 
-.Knotnavigation{
+.Knotavigation{
   height:100%;
   width:160px;
   position:fixed;
@@ -60,7 +60,7 @@ body{
   padding-top: 30px;
 }
 
-.Knotnavigation a {
+.Knotavigation a {
 padding: 6px 10px 6px 18px;
 text-decoration: none;
 font-size: 25px;
@@ -68,7 +68,7 @@ color:white;
 display: block;
 }
 
-.Knotnavigation a:hover{
+.Knotavigation a:hover{
   color:white;
 }
 
