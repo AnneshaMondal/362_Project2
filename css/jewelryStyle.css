@@ -8,6 +8,9 @@ h1{
 html{
   background-color: white;
 }
+body{
+  background-color: orange;
+}
 
 #Jewelrynavigation{
   list-style-type: none;
