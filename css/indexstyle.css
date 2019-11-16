@@ -22,7 +22,6 @@ body{
 }
 
 .Indexnavigation{
-  color: white;
   background-color: #ffea00;
   overflow:hidden;
 }
@@ -30,7 +29,7 @@ body{
 .Indexnavigation a {
   width:500px;
   float:left;
-  color:white;
+  color:#00A9D8;
   text-align: center;
   padding-left: 18px;
   text-decoration: none;
@@ -59,6 +58,7 @@ body{
   background-color: #0D9EDF;
   overflow-x: hidden;
   padding-top: 30px;
+  color:white;
 }
 
 .Indexnavigation a{
