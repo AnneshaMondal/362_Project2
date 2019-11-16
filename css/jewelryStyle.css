@@ -3,22 +3,13 @@ h1{
   font-size: 2em;
   text-align: center;
   color: #ffea00;
-
 }
 
 body {
   text-align: center;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-
 html{
-  background-color: white;
-}
-body{
   background-color: white;
 }
 
@@ -46,19 +37,8 @@ body{
   padding-bottom: 10px;
 }
 
-
-}
-
-@media only screen and (min-width: 700px) {
-  body {
-    background-color: lightblue;
-  }
-
-
+@media only screen and (min-width: 768px) {
 html{
-  background-color: white;
-}
-body{
   background-color: white;
 }
 
