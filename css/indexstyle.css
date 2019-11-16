@@ -10,7 +10,6 @@ body {
   text-align: center;
 }
 
-@media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
   }
@@ -35,9 +34,6 @@ body{
   padding-left: 18px;
   text-decoration: none;
   font-size: 1em;
-}
-
-
 }
 
 @media only screen and (min-width: 700px) {
