@@ -98,7 +98,6 @@ div.images img{
 div.desc{
   padding:20px;
   text-align: center;
-  color:#FFFF66;
 
 }
 
@@ -111,4 +110,6 @@ div.desc{
   padding-top: 50px;
   float: left;
   width: 25%;
+  border: solid;
+  border-color: #FFFF66;
 }
