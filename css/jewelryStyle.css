@@ -72,8 +72,11 @@ display: block;
 }
 
 .images{
-  display: flex;
-  height: 500px;
-  width: 500px;
+  display: inline;
+}
 
+.images img{
+  max-height: 600px;
+  max-width: 600px;
+  object-fit: cover;
 }
