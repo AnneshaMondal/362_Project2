@@ -6,16 +6,12 @@ h1{
 
 }
 
-.border{
-  background-color: #9CB380;
-  border: 15px #9CB380;
-  padding:50px;
-  margin:20px;
-}
+
 body {
   padding-left: 200px;
   padding-right: 200px;
   text-align: center;
+  background-color: #9CB380;
 }
 
   body {
