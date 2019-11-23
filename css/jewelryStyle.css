@@ -80,7 +80,7 @@ display: block;
   color:white;
 }
 
-
+}
 
 div.images{
   border:1px solid #9CB380;
@@ -100,8 +100,8 @@ div.images img{
 div.desc{
   padding:20px;
   text-align: center;
-   border:solid;
-   border-color: #FFFF66;
+  border:solid;
+  border-color: #FFFF66;
 
 }
 
@@ -114,7 +114,7 @@ div.desc{
   padding-top: 50px;
   float: left;
   width: 25%;
-}
+
 
 
 }
