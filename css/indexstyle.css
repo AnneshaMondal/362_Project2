@@ -59,7 +59,7 @@ body{
 
 @media only screen and (min-width: 700px) {
   body {
-    background-color: lightblue;
+    background-color: #9CB380;
   }
 
 .responsive{
@@ -68,10 +68,10 @@ body{
 }
 
 html{
-  background-color: white;
+  background-color: #9CB380;
 }
 body{
-  background-color: white;
+  background-color: #9CB380;
 }
 
 .Indexnavigation{
