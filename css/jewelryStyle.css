@@ -16,6 +16,12 @@ html{
   background-color: #9CB380;
 }
 
+
+  h1{
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
 .Jewelrynavigation{
   background-color: #ffea00;
   overflow:hidden;
@@ -55,6 +61,11 @@ background-color: #9CB380;
   background-color: #0D9EDF;
   overflow-x: hidden;
   padding-top: 30px;
+}
+
+h1{
+  padding-bottom: 50px;
+  padding-top: 25px;
 }
 
 .Jewelrynavigation a {
