@@ -31,6 +31,7 @@ body{
 .Indexnavigation{
   background-color: #ffea00;
   overflow:hidden;
+  color: white;
 }
 
 .Indexnavigation a {
