@@ -45,8 +45,19 @@ html{
   flex:1.3344;
   padding-bottom: 10px;
 }
+@media only screen and (max-width: 500px) {
+  .responsive{
+    width: 100%;
+  }
 
-@media only screen and (min-width: 768px) {
+  .clearfix:after{
+    content:"";
+    display: table;
+    clear: both;
+  }
+  }
+  
+@media only screen and (max-width: 700px) {
 html{
 background-color: #9CB380;
 }
@@ -80,7 +91,7 @@ display: block;
   color:white;
 }
 
-}
+
 
 div.images{
   border:1px solid #9CB380;
@@ -116,5 +127,5 @@ div.desc{
   width: 25%;
 
 
-
+}
 }
