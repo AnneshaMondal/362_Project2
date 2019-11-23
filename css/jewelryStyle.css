@@ -93,6 +93,8 @@ div.images:hover{
 div.images img{
   heigh:auto;
   width:100%;
+  border:solid;
+  border-color: #FFFF66;
 }
 
 div.desc{
