@@ -78,4 +78,30 @@ display: block;
 #images{
   display: flex;
 }
+
+div.HomePageImages:hover{
+  border:1px solid #9CB380;
+}
+
+div.HomePageImages{
+  margin:10px;
+  border:1px solid #9CB380;
+  float:left;
+  width: 200px;
+}
+
+div.HomePageImages img{
+  height: auto;
+  width: 600px;
+  height: 400px;
+}
+
+div.HomePageImages description{
+  padding:20px;
+  text-align: center;
+}
+
+div.HomePageImages target {
+
+}
 }
