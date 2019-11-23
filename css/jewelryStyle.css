@@ -71,6 +71,32 @@ display: block;
 
 }
 
-.images{
-  display: inline;
+div.images{
+  border:1px solid #9CB380;
+}
+
+div.images:hover{
+  border: 1px solid #9CB380;
+}
+
+div.images img{
+  heigh:auto;
+  width:100%;
+}
+
+div.desc{
+  padding:20px;
+  text-align: center;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive{
+  padding: 0 10px;
+  padding-top: 50px;
+  float: left;
+  width: 25%;
 }
