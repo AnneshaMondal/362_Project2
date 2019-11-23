@@ -78,5 +78,5 @@ display: block;
 .images img{
   max-height: 600px;
   max-width: 600px;
-  object-fit: cover;
+  object-fit: scale-down;
 }
