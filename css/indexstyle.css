@@ -107,8 +107,8 @@ div.images {
  }
 
 div.images img{
-  heigh:auto;
-  width:100%;
+  heigh:250px;
+  width:250px;
 }
 
 div.desc{
