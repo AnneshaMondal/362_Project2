@@ -95,6 +95,8 @@ div.images img{
   width:100%;
   border:solid;
   border-color: #FFFF66;
+  border-height:500px;
+  border-width: 500px;
 }
 
 div.desc{
