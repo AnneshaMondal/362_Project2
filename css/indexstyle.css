@@ -102,7 +102,8 @@ div.HomePageImages description{
   text-align: center;
 }
 
-div.HomePageImages target {
-
+div.HomePageImages HPimage {
+width: 600px;
+height: 400px;
 }
 }
