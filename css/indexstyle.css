@@ -17,7 +17,9 @@ body {
   body {
     background-color: lightblue;
   }
-
+h1{
+  padding-bottom: 50px;
+}
 html{
   background-color: #9CB380;
 }
@@ -73,6 +75,9 @@ html{
 body{
   background-color: #9CB380;
 }
+h1{
+  padding-bottom: 50px;
+}
 
 .Indexnavigation{
   height:100%;
@@ -107,8 +112,8 @@ div.images {
  }
 
 div.images img{
-  heigh:250px;
-  width:250px;
+  heigh:auto;
+  width:100%;
 }
 
 div.desc{
