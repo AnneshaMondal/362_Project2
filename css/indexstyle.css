@@ -38,10 +38,32 @@ body{
   font-size: 1em;
 }
 
+@media only screen and (max-width: 500px) {
+  .responsive{
+    width: 100%;
+  }
+
+  .clearfix:after{
+    content:"";
+    display: table;
+    clear: both;
+  }
+  }
+
+.responsive{
+  width: 50%;
+  margin: 10px 0;
+}
+
 @media only screen and (min-width: 700px) {
   body {
     background-color: lightblue;
   }
+
+.responsive{
+  width: 50%;
+  margin: 10px 0;
+}
 
 html{
   background-color: white;
@@ -75,30 +97,34 @@ display: block;
   color:white;
 }
 
-#images{
-  display: flex;
+div.images {
+  border: 1px solid #9CB380;
+}
+ div.images:hover{
+   border: 1px solid #9CB380;
+ }
+
+div.images img{
+  heigh:auto;
+  width:100%;
 }
 
-div.HomePageImages:hover{
-  border:1px solid #9CB380;
-}
-
-div.HomePageImages{
-  margin:20px;
-  border:1px solid #9CB380;
-  float:left;
-  width: 200px;
-}
-
-div.HomePageImages img{
-  height: auto;
-
-}
-
-div.HomePageImages description{
+div.desc{
   padding:20px;
   text-align: center;
+
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive{
+  padding: 0 10px;
+  float: left;
+  width: 25%;
+}
+
 
 
 }
