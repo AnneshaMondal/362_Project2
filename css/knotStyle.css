@@ -5,9 +5,12 @@ h1{
   color: #ffea00;
 }
 
-body{
+body {
+  padding-left: 200px;
+  padding-right: 200px;
   text-align: center;
 }
+
 
 html{
   background-color: white;
