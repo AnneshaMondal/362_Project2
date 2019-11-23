@@ -28,6 +28,22 @@ body{
   background-color: #9CB380;
 }
 
+.Indexnavigation{
+  background-color: #ffea00;
+  overflow:hidden;
+  color: white;
+}
+
+.Indexnavigation a {
+  width:500px;
+  float:left;
+  color:#00A9D8;
+
+  text-align: center;
+  padding-left: 18px;
+  text-decoration: none;
+  font-size: 1em;
+}
 
 @media only screen and (max-width: 500px) {
   .responsive{
@@ -50,22 +66,6 @@ body{
   body {
     background-color: #9CB380;
   }
-  .Indexnavigation{
-    background-color: #ffea00;
-    overflow:hidden;
-    color: white;
-  }
-
-  .Indexnavigation a {
-    width:500px;
-    float:left;
-    color:#00A9D8;
-    text-align: center;
-    padding-left: 18px;
-    text-decoration: none;
-    font-size: 1em;
-  }
-
 
 .responsive{
   width: 50%;
