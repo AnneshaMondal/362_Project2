@@ -84,7 +84,7 @@ div.HomePageImages:hover{
 }
 
 div.HomePageImages{
-  margin:10px;
+  margin:20px;
   border:1px solid #9CB380;
   float:left;
   width: 200px;
@@ -102,8 +102,5 @@ div.HomePageImages description{
   text-align: center;
 }
 
-div.HomePageImages HPimage {
-width: 200px;
-height: 300px;
-}
+
 }
