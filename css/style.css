@@ -1,7 +1,6 @@
 body{
   margin:0;
-  font-family: Arial, Helvetica, sans-sherif;
-  font-family: 'Baskervville', serif;
+  font-family: 'Baskervville', serif, sans-serif;
 }
 
 html{
@@ -157,32 +156,7 @@ text-align: center;
   color: white;
 }
 
-.nav .login{
-  float:right;
-  padding-top: 8px;
-}
 
-.nav input[type=text]
-{
-  padding:6px;
-  padding-top: 6px;
-  font-size:17px;
-  border: none;
-  width: 150px;
-}
-.nav .login button{
-  float:right;
-  padding:6px;
-  margin-right: 16px;
-  background:#FFFF99;
-  font-size: 17px;
-  border: none;
-  cursor: pointer;
-}
-
-.nav .login button:hover{
-  background:#FFFF99;
-}
 
 
 
