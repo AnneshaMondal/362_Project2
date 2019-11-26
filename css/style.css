@@ -157,7 +157,8 @@ text-align: center;
 }
 
 .nav a.login{
-  text-align: right;
+  position: relative;
+  right:200px;
 }
 
 
