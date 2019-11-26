@@ -156,7 +156,7 @@ text-align: center;
   color: white;
 }
 
-.nav .login{
+.nav a.login{
   text-align: right;
 }
 
